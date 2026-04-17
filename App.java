@@ -10,7 +10,7 @@ public class App extends JFrame {
         setLayout(new FlowLayout());
 
         JLabel lb = new JLabel("Hello World");
-        lb.setFont(new Font("Arial",Font.PLAIN,18));
+        lb.setFont(new Font("Arial",Font.BOLD,18));
         add(lb);
 
     }
