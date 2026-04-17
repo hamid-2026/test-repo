@@ -4,7 +4,7 @@ import java.awt.*;
 public class App extends JFrame {
     App(){
         setTitle("Test");
-        setSize(700, 400);
+        setSize(500, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
